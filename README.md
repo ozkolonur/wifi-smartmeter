@@ -5,6 +5,8 @@ wifi-smartmeter is device a smartmeter measures your current power consumption a
 
 It counts the number of blinks in your current not-so smartmeter. 
 
+Universally, those electronic meters has an led on it and every blink corresponds to a defined amount of energy passing through the meter (kWh/Wh). For single-phase domestic electricity meters each pulse usually equals one Wh (or 1000 pulses per kWh).
+
 ## Features
 - Costs $8 to build
 - With a re-chargable battery lasts months
@@ -18,17 +20,7 @@ It counts the number of blinks in your current not-so smartmeter.
 <img src="https://raw.githubusercontent.com/devopswise/wifi-smartmeter/master/image/inside_housing.jpg" width="300">
 <img src="https://raw.githubusercontent.com/devopswise/wifi-smartmeter/master/image/grafana1.png" height="300">
 
-
-## Contributions
-Any Contributions are welcome
-You can share your ideas as github issues. I am interested improving project following 3 areas.
-
-### - How can I minimize power consumption?
-
-### - How can I build this hardware for cheaper?
-
-### - How can I make project easy to build, so more people can build as DIY project. (ex: howto build without any soldering)
-
+some more here: https://imgur.com/a/BOavfxk
 
 ## Bill of Materials
 
@@ -70,6 +62,9 @@ Same code compiles for both ATMega328P and ATtiny85. It is easier to develop on 
 
 ## Feature Requests
 I really would like to hear, but I can't guarantee its implementation, as this is just a hobby project. Forks are always welcome.
+
+## Contributions
+Any contributions & questions are welcome.
 
 ## Credits
 
