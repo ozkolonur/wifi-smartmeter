@@ -27,7 +27,7 @@ some more here: https://imgur.com/a/BOavfxk
 1. digispark attiny85
 2. esp8266 esp-01 board
 3. ams1117 3.3v regulator module
-4. lm303 light sensor module
+4. lm393 light sensor module
 5. powerbank case & 18630 battery
 6. dupont wires
 
